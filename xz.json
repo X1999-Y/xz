@@ -1,5 +1,5 @@
 {
-  "spider": "./xz.jar",
+  "spider": "./lib/xz.jar",
   "wallpaper": "https://yun.chuqiuyu.tk",
   "lives": [
     {
