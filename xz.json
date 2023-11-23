@@ -781,7 +781,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/动漫巴士.json"
+      "ext": "http://ystv.aiyinch.cn/jk/ystv/lib/动漫巴士.json"
     },
     {
       "key": "mtv_xp_维奇动漫",
@@ -791,7 +791,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/维奇动漫.json"
+      "ext": "http://ystv.aiyinch.cn/jk/ystv/lib/维奇动漫.json"
     },
     {
       "key": "csp_短剧",
@@ -954,7 +954,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/哔哩美食.json"
+      "ext": "http://ystv.aiyinch.cn/jk/ystv/lib/哔哩美食.json"
     },
     {
       "key": "戏曲杂苑",
