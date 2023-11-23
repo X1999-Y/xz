@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/live.txt",
+      "url": "http://ystv.aiyinch.cn/jk/ystv/lib/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
