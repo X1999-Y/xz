@@ -95,16 +95,6 @@
       "filterable": 1
     },
     {
-      "key": "Wogg",
-      "name": "️玩偶哥哥",
-      "type": 3,
-      "api": "csp_XPathAli",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/玩偶哥哥.json"
-    },
-    {
       "key": "csp_农民",
       "name": "农民影视",
       "type": 3,
