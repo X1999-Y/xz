@@ -12,6 +12,16 @@
   "warningtext": "玄竹影视:https://xuanzhu.aiyinch.cn",
   "sites": [
     {
+      "key": "csp_tVB",
+      "name": " TVB云播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/TVB云播.json"
+    },
+    {
       "key": "csp_玄竹",
       "name": "玄竹影视",
       "type": 3,
@@ -312,16 +322,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/淘剧影院.json"
-    },
-    {
-      "key": "csp_tVB",
-      "name": " TVB云播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/TVB云播.json"
     },
     {
       "key": "csp_光棍",
