@@ -6,7 +6,9 @@
       "name": "live",
       "type": 0,
       "url": "http://ystv.aiyinch.cn/jk/ystv/lib/live.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "warningtext": "玄竹影视:https://xuanzhu.aiyinch.cn",
