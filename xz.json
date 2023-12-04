@@ -67,7 +67,7 @@
     },
     {
       "key": "索尼",
-      "name": "🛸4K高清",
+      "name": "索尼高清",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
