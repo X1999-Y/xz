@@ -24,6 +24,15 @@
       "ext": "./lib/TVB云播.json"
     },
     {
+      "key": "AliYunPan",
+      "name": "云盘登录",
+      "type": 3,
+      "api": "csp_AliYunPan",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
+    },
+    {
       "key": "csp_玄竹",
       "name": "玄竹影视",
       "type": 3,
