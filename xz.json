@@ -33,16 +33,6 @@
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
     {
-      "key": "csp_玄竹",
-      "name": "玄竹影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/玄竹影视.json"
-    },
-    {
       "key": "csp_Free",
       "name": "Free影视",
       "type": 3,
